@@ -23,9 +23,4 @@ This project analyzes user behavior, cooking preferences, and order trends to id
 - **Jupyter Notebook**: For data analysis and visualization.
 - **GitHub**: To organize and share the project.
 
-## Repository Structure
-- **data/**: Raw datasets used in the analysis.
-- **notebooks/**: Jupyter notebooks containing the analysis.
-- **visuals/**: Visualizations generated during the project.
-- **report/**: The final report in PDF and Word formats.
-- `README.md`: This file.
+
